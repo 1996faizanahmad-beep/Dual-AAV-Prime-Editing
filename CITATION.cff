@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "DUAL-AAV PRIME-DT: co-transduction-aware digital twinning of dual-AAV prime editing"
+version: 1.4.0
+date-released: 2026-11-01
+authors:
+  - family-names: Ahmad
+    given-names: Faizan
+abstract: "Evidence-constrained digital twin of dual-AAV prime editing with explicit AAV-A/AAV-B co-transduction; all LRRK2 outputs are synthetic."
+license: MIT
+repository-code: "https://github.com/OWNER/dual-aav-prime-dt"
+keywords: [prime editing, AAV, digital twin, LRRK2, Parkinson disease, gene therapy]
